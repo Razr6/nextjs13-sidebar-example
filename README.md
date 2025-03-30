@@ -1,7 +1,16 @@
 
-Steve: This is cloned from https://github.com/designly1/nextjs13-sidebar-example 
-it seems to be a really good simple example that works.
-But it is written using pagfes router,not app - also all the version numbers next, rreact, etc are old.
+Steve: This is cloned/forked from https://github.com/designly1/nextjs13-sidebar-example 
+it seems to be a really good, simple example that works.
+But it was written 2 yrs ago, and there are some differences:
+
+- uses page router (not app router)
+- uses js, not typescript
+- all the version numbers next, react, etc are old. Does that matter?
+
+But it does actually work. And it comes with detailed notes, explaining how it works. See below.
+
+Ok, so lets try and migrate it to the app router, first. Here are the docs on that: https://nextjs.org/docs/pages/building-your-application/upgrading/app-router-migration#migrating-from-pages-to-app
+
 
 
 Original md content follows:
