@@ -1,3 +1,13 @@
+
+Steve: This is cloned from https://github.com/designly1/nextjs13-sidebar-example 
+it seems to be a really good simple example that works.
+But it is written using pagfes router,not app - also all the version numbers next, rreact, etc are old.
+
+
+Original md content follows:
+
+------
+
 Most of the design systems, such as Material UI and Ant Design have drawer-like elements that allow you to create animated sliding sidebars, but many, myself included, find these design systems to be limiting. They also introduce a ton of overhead in dependency code base.
 
 During any web development project, I am always looking for places where layers of abstraction and dependencies can be eliminated, especially when the underlying task that the layer of abstraction is producing is relatively simple. Well, good news: a responsive sidebar is one of those things! 🤗
